@@ -1,0 +1,3 @@
+//
+
+question.prototype.userAnswer=null
